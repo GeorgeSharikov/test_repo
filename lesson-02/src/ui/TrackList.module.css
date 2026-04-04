@@ -1,0 +1,13 @@
+.tracks{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.tracks li{
+    margin-bottom: 5px;
+}
+
+.tracks li:last-child {
+    margin-bottom: 0;
+}
