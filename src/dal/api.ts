@@ -1,5 +1,5 @@
-import { tracksDetailsStaticData } from './../../data/tracksDetails.ts';
-import {tracksListStaticData} from '../../data/tracks.ts'
+import { tracksDetailsStaticData } from '../data/tracksDetails.ts';
+import {tracksListStaticData} from '../data/tracks.ts'
 
 type TraclListItemAttachments = {
     url: string
